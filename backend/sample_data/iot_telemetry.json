@@ -1,0 +1,722 @@
+[
+  {
+    "reading_id": "READ-5000",
+    "timestamp": "2026-03-01T00:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-1",
+    "temperature_celsius": 20.5,
+    "humidity_pct": 40.0,
+    "battery_level_pct": 100
+  },
+  {
+    "reading_id": "READ-5001",
+    "timestamp": "2026-03-01T01:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-2",
+    "temperature_celsius": 20.68,
+    "humidity_pct": 41.1,
+    "battery_level_pct": 99
+  },
+  {
+    "reading_id": "READ-5002",
+    "timestamp": "2026-03-01T02:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-3",
+    "temperature_celsius": 21.83,
+    "humidity_pct": 42.2,
+    "battery_level_pct": 98
+  },
+  {
+    "reading_id": "READ-5003",
+    "timestamp": "2026-03-01T03:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-1",
+    "temperature_celsius": 22.41,
+    "humidity_pct": 43.3,
+    "battery_level_pct": 97
+  },
+  {
+    "reading_id": "READ-5004",
+    "timestamp": "2026-03-01T04:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-2",
+    "temperature_celsius": 22.52,
+    "humidity_pct": 44.4,
+    "battery_level_pct": 96
+  },
+  {
+    "reading_id": "READ-5005",
+    "timestamp": "2026-03-01T05:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-3",
+    "temperature_celsius": 24.25,
+    "humidity_pct": 45.5,
+    "battery_level_pct": 95
+  },
+  {
+    "reading_id": "READ-5006",
+    "timestamp": "2026-03-01T06:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-1",
+    "temperature_celsius": 24.55,
+    "humidity_pct": 46.6,
+    "battery_level_pct": 94
+  },
+  {
+    "reading_id": "READ-5007",
+    "timestamp": "2026-03-01T07:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-2",
+    "temperature_celsius": 26.12,
+    "humidity_pct": 47.7,
+    "battery_level_pct": 93
+  },
+  {
+    "reading_id": "READ-5008",
+    "timestamp": "2026-03-01T08:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-3",
+    "temperature_celsius": 26.28,
+    "humidity_pct": 48.8,
+    "battery_level_pct": 92
+  },
+  {
+    "reading_id": "READ-5009",
+    "timestamp": "2026-03-01T09:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-1",
+    "temperature_celsius": 27.16,
+    "humidity_pct": 49.9,
+    "battery_level_pct": 91
+  },
+  {
+    "reading_id": "READ-5010",
+    "timestamp": "2026-03-01T10:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-2",
+    "temperature_celsius": 28.84,
+    "humidity_pct": 51.0,
+    "battery_level_pct": 90
+  },
+  {
+    "reading_id": "READ-5011",
+    "timestamp": "2026-03-01T11:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-3",
+    "temperature_celsius": 29.99,
+    "humidity_pct": 52.1,
+    "battery_level_pct": 89
+  },
+  {
+    "reading_id": "READ-5012",
+    "timestamp": "2026-03-01T12:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-1",
+    "temperature_celsius": 29.99,
+    "humidity_pct": 53.2,
+    "battery_level_pct": 88
+  },
+  {
+    "reading_id": "READ-5013",
+    "timestamp": "2026-03-01T13:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-2",
+    "temperature_celsius": 30.26,
+    "humidity_pct": 54.3,
+    "battery_level_pct": 87
+  },
+  {
+    "reading_id": "READ-5014",
+    "timestamp": "2026-03-01T14:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-3",
+    "temperature_celsius": 31.01,
+    "humidity_pct": 55.4,
+    "battery_level_pct": 86
+  },
+  {
+    "reading_id": "READ-5015",
+    "timestamp": "2026-03-01T15:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-1",
+    "temperature_celsius": 19.59,
+    "humidity_pct": 56.5,
+    "battery_level_pct": 85
+  },
+  {
+    "reading_id": "READ-5016",
+    "timestamp": "2026-03-01T16:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-2",
+    "temperature_celsius": 20.49,
+    "humidity_pct": 57.6,
+    "battery_level_pct": 84
+  },
+  {
+    "reading_id": "READ-5017",
+    "timestamp": "2026-03-01T17:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-3",
+    "temperature_celsius": 21.46,
+    "humidity_pct": 58.7,
+    "battery_level_pct": 83
+  },
+  {
+    "reading_id": "READ-5018",
+    "timestamp": "2026-03-01T18:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-1",
+    "temperature_celsius": 23.38,
+    "humidity_pct": 59.8,
+    "battery_level_pct": 82
+  },
+  {
+    "reading_id": "READ-5019",
+    "timestamp": "2026-03-01T19:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-2",
+    "temperature_celsius": 23.1,
+    "humidity_pct": 60.9,
+    "battery_level_pct": 81
+  },
+  {
+    "reading_id": "READ-5020",
+    "timestamp": "2026-03-01T20:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-3",
+    "temperature_celsius": 23.39,
+    "humidity_pct": 40.0,
+    "battery_level_pct": 80
+  },
+  {
+    "reading_id": "READ-5021",
+    "timestamp": "2026-03-01T21:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-1",
+    "temperature_celsius": 24.82,
+    "humidity_pct": 41.1,
+    "battery_level_pct": 79
+  },
+  {
+    "reading_id": "READ-5022",
+    "timestamp": "2026-03-01T22:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-2",
+    "temperature_celsius": 25.69,
+    "humidity_pct": 42.2,
+    "battery_level_pct": 78
+  },
+  {
+    "reading_id": "READ-5023",
+    "timestamp": "2026-03-01T23:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-3",
+    "temperature_celsius": 26.42,
+    "humidity_pct": 43.3,
+    "battery_level_pct": 77
+  },
+  {
+    "reading_id": "READ-5024",
+    "timestamp": "2026-03-01T00:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-1",
+    "temperature_celsius": 27.6,
+    "humidity_pct": 44.4,
+    "battery_level_pct": 76
+  },
+  {
+    "reading_id": "READ-5025",
+    "timestamp": "2026-03-01T01:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-2",
+    "temperature_celsius": 28.03,
+    "humidity_pct": 45.5,
+    "battery_level_pct": 75
+  },
+  {
+    "reading_id": "READ-5026",
+    "timestamp": "2026-03-01T02:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-3",
+    "temperature_celsius": 29.18,
+    "humidity_pct": 46.6,
+    "battery_level_pct": 74
+  },
+  {
+    "reading_id": "READ-5027",
+    "timestamp": "2026-03-01T03:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-1",
+    "temperature_celsius": 29.21,
+    "humidity_pct": 47.7,
+    "battery_level_pct": 73
+  },
+  {
+    "reading_id": "READ-5028",
+    "timestamp": "2026-03-01T04:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-2",
+    "temperature_celsius": 31.29,
+    "humidity_pct": 48.8,
+    "battery_level_pct": 72
+  },
+  {
+    "reading_id": "READ-5029",
+    "timestamp": "2026-03-01T05:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-3",
+    "temperature_celsius": 31.33,
+    "humidity_pct": 49.9,
+    "battery_level_pct": 71
+  },
+  {
+    "reading_id": "READ-5030",
+    "timestamp": "2026-03-01T06:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-1",
+    "temperature_celsius": 20.2,
+    "humidity_pct": 51.0,
+    "battery_level_pct": 70
+  },
+  {
+    "reading_id": "READ-5031",
+    "timestamp": "2026-03-01T07:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-2",
+    "temperature_celsius": 20.41,
+    "humidity_pct": 52.1,
+    "battery_level_pct": 69
+  },
+  {
+    "reading_id": "READ-5032",
+    "timestamp": "2026-03-01T08:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-3",
+    "temperature_celsius": 21.84,
+    "humidity_pct": 53.2,
+    "battery_level_pct": 68
+  },
+  {
+    "reading_id": "READ-5033",
+    "timestamp": "2026-03-01T09:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-1",
+    "temperature_celsius": 22.73,
+    "humidity_pct": 54.3,
+    "battery_level_pct": 67
+  },
+  {
+    "reading_id": "READ-5034",
+    "timestamp": "2026-03-01T10:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-2",
+    "temperature_celsius": 22.62,
+    "humidity_pct": 55.4,
+    "battery_level_pct": 66
+  },
+  {
+    "reading_id": "READ-5035",
+    "timestamp": "2026-03-01T11:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-3",
+    "temperature_celsius": 23.17,
+    "humidity_pct": 56.5,
+    "battery_level_pct": 65
+  },
+  {
+    "reading_id": "READ-5036",
+    "timestamp": "2026-03-01T12:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-1",
+    "temperature_celsius": 24.95,
+    "humidity_pct": 57.6,
+    "battery_level_pct": 64
+  },
+  {
+    "reading_id": "READ-5037",
+    "timestamp": "2026-03-01T13:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-2",
+    "temperature_celsius": 25.36,
+    "humidity_pct": 58.7,
+    "battery_level_pct": 63
+  },
+  {
+    "reading_id": "READ-5038",
+    "timestamp": "2026-03-01T14:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-3",
+    "temperature_celsius": 26.53,
+    "humidity_pct": 59.8,
+    "battery_level_pct": 62
+  },
+  {
+    "reading_id": "READ-5039",
+    "timestamp": "2026-03-01T15:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-1",
+    "temperature_celsius": 26.55,
+    "humidity_pct": 60.9,
+    "battery_level_pct": 61
+  },
+  {
+    "reading_id": "READ-5040",
+    "timestamp": "2026-03-01T16:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-2",
+    "temperature_celsius": 27.22,
+    "humidity_pct": 40.0,
+    "battery_level_pct": 60
+  },
+  {
+    "reading_id": "READ-5041",
+    "timestamp": "2026-03-01T17:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-3",
+    "temperature_celsius": 28.9,
+    "humidity_pct": 41.1,
+    "battery_level_pct": 59
+  },
+  {
+    "reading_id": "READ-5042",
+    "timestamp": "2026-03-01T18:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-1",
+    "temperature_celsius": 29.43,
+    "humidity_pct": 42.2,
+    "battery_level_pct": 58
+  },
+  {
+    "reading_id": "READ-5043",
+    "timestamp": "2026-03-01T19:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-2",
+    "temperature_celsius": 29.34,
+    "humidity_pct": 43.3,
+    "battery_level_pct": 57
+  },
+  {
+    "reading_id": "READ-5044",
+    "timestamp": "2026-03-01T20:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-3",
+    "temperature_celsius": 31.87,
+    "humidity_pct": 44.4,
+    "battery_level_pct": 56
+  },
+  {
+    "reading_id": "READ-5045",
+    "timestamp": "2026-03-01T21:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-1",
+    "temperature_celsius": 19.35,
+    "humidity_pct": 45.5,
+    "battery_level_pct": 55
+  },
+  {
+    "reading_id": "READ-5046",
+    "timestamp": "2026-03-01T22:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-2",
+    "temperature_celsius": 22.09,
+    "humidity_pct": 46.6,
+    "battery_level_pct": 54
+  },
+  {
+    "reading_id": "READ-5047",
+    "timestamp": "2026-03-01T23:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-3",
+    "temperature_celsius": 21.29,
+    "humidity_pct": 47.7,
+    "battery_level_pct": 53
+  },
+  {
+    "reading_id": "READ-5048",
+    "timestamp": "2026-03-01T00:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-1",
+    "temperature_celsius": 22.6,
+    "humidity_pct": 48.8,
+    "battery_level_pct": 52
+  },
+  {
+    "reading_id": "READ-5049",
+    "timestamp": "2026-03-01T01:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-2",
+    "temperature_celsius": 24.02,
+    "humidity_pct": 49.9,
+    "battery_level_pct": 51
+  },
+  {
+    "reading_id": "READ-5050",
+    "timestamp": "2026-03-01T02:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-3",
+    "temperature_celsius": 24.74,
+    "humidity_pct": 51.0,
+    "battery_level_pct": 50
+  },
+  {
+    "reading_id": "READ-5051",
+    "timestamp": "2026-03-01T03:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-1",
+    "temperature_celsius": 25.79,
+    "humidity_pct": 52.1,
+    "battery_level_pct": 49
+  },
+  {
+    "reading_id": "READ-5052",
+    "timestamp": "2026-03-01T04:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-2",
+    "temperature_celsius": 24.84,
+    "humidity_pct": 53.2,
+    "battery_level_pct": 48
+  },
+  {
+    "reading_id": "READ-5053",
+    "timestamp": "2026-03-01T05:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-3",
+    "temperature_celsius": 25.83,
+    "humidity_pct": 54.3,
+    "battery_level_pct": 47
+  },
+  {
+    "reading_id": "READ-5054",
+    "timestamp": "2026-03-01T06:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-1",
+    "temperature_celsius": 27.31,
+    "humidity_pct": 55.4,
+    "battery_level_pct": 46
+  },
+  {
+    "reading_id": "READ-5055",
+    "timestamp": "2026-03-01T07:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-2",
+    "temperature_celsius": 28.42,
+    "humidity_pct": 56.5,
+    "battery_level_pct": 45
+  },
+  {
+    "reading_id": "READ-5056",
+    "timestamp": "2026-03-01T08:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-3",
+    "temperature_celsius": 28.79,
+    "humidity_pct": 57.6,
+    "battery_level_pct": 44
+  },
+  {
+    "reading_id": "READ-5057",
+    "timestamp": "2026-03-01T09:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-1",
+    "temperature_celsius": 28.78,
+    "humidity_pct": 58.7,
+    "battery_level_pct": 43
+  },
+  {
+    "reading_id": "READ-5058",
+    "timestamp": "2026-03-01T10:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-2",
+    "temperature_celsius": 30.65,
+    "humidity_pct": 59.8,
+    "battery_level_pct": 42
+  },
+  {
+    "reading_id": "READ-5059",
+    "timestamp": "2026-03-01T11:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-3",
+    "temperature_celsius": 31.1,
+    "humidity_pct": 60.9,
+    "battery_level_pct": 41
+  },
+  {
+    "reading_id": "READ-5060",
+    "timestamp": "2026-03-01T12:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-1",
+    "temperature_celsius": 19.9,
+    "humidity_pct": 40.0,
+    "battery_level_pct": 40
+  },
+  {
+    "reading_id": "READ-5061",
+    "timestamp": "2026-03-01T13:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-2",
+    "temperature_celsius": 19.66,
+    "humidity_pct": 41.1,
+    "battery_level_pct": 39
+  },
+  {
+    "reading_id": "READ-5062",
+    "timestamp": "2026-03-01T14:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-3",
+    "temperature_celsius": 22.0,
+    "humidity_pct": 42.2,
+    "battery_level_pct": 38
+  },
+  {
+    "reading_id": "READ-5063",
+    "timestamp": "2026-03-01T15:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-1",
+    "temperature_celsius": 22.47,
+    "humidity_pct": 43.3,
+    "battery_level_pct": 37
+  },
+  {
+    "reading_id": "READ-5064",
+    "timestamp": "2026-03-01T16:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-2",
+    "temperature_celsius": 24.1,
+    "humidity_pct": 44.4,
+    "battery_level_pct": 36
+  },
+  {
+    "reading_id": "READ-5065",
+    "timestamp": "2026-03-01T17:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-3",
+    "temperature_celsius": 23.96,
+    "humidity_pct": 45.5,
+    "battery_level_pct": 35
+  },
+  {
+    "reading_id": "READ-5066",
+    "timestamp": "2026-03-01T18:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-1",
+    "temperature_celsius": 25.08,
+    "humidity_pct": 46.6,
+    "battery_level_pct": 34
+  },
+  {
+    "reading_id": "READ-5067",
+    "timestamp": "2026-03-01T19:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-2",
+    "temperature_celsius": 26.02,
+    "humidity_pct": 47.7,
+    "battery_level_pct": 33
+  },
+  {
+    "reading_id": "READ-5068",
+    "timestamp": "2026-03-01T20:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-3",
+    "temperature_celsius": 25.53,
+    "humidity_pct": 48.8,
+    "battery_level_pct": 32
+  },
+  {
+    "reading_id": "READ-5069",
+    "timestamp": "2026-03-01T21:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-1",
+    "temperature_celsius": 28.51,
+    "humidity_pct": 49.9,
+    "battery_level_pct": 31
+  },
+  {
+    "reading_id": "READ-5070",
+    "timestamp": "2026-03-01T22:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-2",
+    "temperature_celsius": 27.78,
+    "humidity_pct": 51.0,
+    "battery_level_pct": 30
+  },
+  {
+    "reading_id": "READ-5071",
+    "timestamp": "2026-03-01T23:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-3",
+    "temperature_celsius": 29.05,
+    "humidity_pct": 52.1,
+    "battery_level_pct": 29
+  },
+  {
+    "reading_id": "READ-5072",
+    "timestamp": "2026-03-01T00:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-1",
+    "temperature_celsius": 29.92,
+    "humidity_pct": 53.2,
+    "battery_level_pct": 28
+  },
+  {
+    "reading_id": "READ-5073",
+    "timestamp": "2026-03-01T01:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-2",
+    "temperature_celsius": 29.99,
+    "humidity_pct": 54.3,
+    "battery_level_pct": 27
+  },
+  {
+    "reading_id": "READ-5074",
+    "timestamp": "2026-03-01T02:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-3",
+    "temperature_celsius": 32.12,
+    "humidity_pct": 55.4,
+    "battery_level_pct": 26
+  },
+  {
+    "reading_id": "READ-5075",
+    "timestamp": "2026-03-01T03:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-1",
+    "temperature_celsius": 20.13,
+    "humidity_pct": 56.5,
+    "battery_level_pct": 25
+  },
+  {
+    "reading_id": "READ-5076",
+    "timestamp": "2026-03-01T04:15:00Z",
+    "device_id": "Sensor-A1",
+    "location": "Zone-2",
+    "temperature_celsius": 20.69,
+    "humidity_pct": 57.6,
+    "battery_level_pct": 24
+  },
+  {
+    "reading_id": "READ-5077",
+    "timestamp": "2026-03-01T05:15:00Z",
+    "device_id": "Sensor-B2",
+    "location": "Zone-3",
+    "temperature_celsius": 21.67,
+    "humidity_pct": 58.7,
+    "battery_level_pct": 23
+  },
+  {
+    "reading_id": "READ-5078",
+    "timestamp": "2026-03-01T06:15:00Z",
+    "device_id": "Sensor-C3",
+    "location": "Zone-1",
+    "temperature_celsius": 22.78,
+    "humidity_pct": 59.8,
+    "battery_level_pct": 22
+  },
+  {
+    "reading_id": "READ-5079",
+    "timestamp": "2026-03-01T07:15:00Z",
+    "device_id": "Sensor-D4",
+    "location": "Zone-2",
+    "temperature_celsius": 23.21,
+    "humidity_pct": 60.9,
+    "battery_level_pct": 21
+  }
+]
